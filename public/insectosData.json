@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"key": "hormiga",
+		"name": "hormiga",
+		"foto": "https://2.bp.blogspot.com/-T4R4PEaUMeM/UWRqFpBpSbI/AAAAAAAAixE/jWN307-uLQM/s1600/insecto+6.jpg",
+		"descripcion": "Las hormigas son insectos sociales que viven en colonias."
+	},
+	{
+		"id": 2,
+		"key": "mosca",
+		"name": "mosca",
+		"foto": "https://static.vecteezy.com/system/resources/previews/023/374/473/non_2x/closeup-macrography-of-fly-insects-ai-generative-free-photo.jpg",
+		"descripcion": "Las moscas son conocidas por su capacidad de vuelo rápido y zumbido característico."
+	},
+	{
+		"id": 3,
+		"key": "abeja",
+		"name": "abeja",
+		"foto": "https://imagenes.elpais.com/resizer/mVzb2rcYeVSoZQorU4DOEEze50I=/1960x1103/cloudfront-eu-central-1.images.arcpublishing.com/prisa/PYH3AMWBQ5CKTGS3J75D5PIGGE.JPG",
+		"descripcion": "Las abejas desempeñan un papel crucial en la polinización de las flores."
+	},
+	{
+		"id": 4,
+		"key": "escarabajo",
+		"name": "escarabajo",
+		"foto": "https://s1.1zoom.me/big0/66/Bugs_Insects_Closeup_weevil_598093_1280x853.jpg",
+		"descripcion": "Los escarabajos son insectos con élitros que protegen sus alas."
+	},
+	{
+		"id": 5,
+		"key": "araña_saltadora",
+		"name": "araña_saltadora",
+		"foto": "https://m1.paperblog.com/i/159/1599800/un-vistazo-cerca-insectos-jardin-L-_yW8do.jpeg",
+		"descripcion": "Las arañas saltadoras son conocidas por su capacidad de saltar distancias significativas."
+	},
+	{
+		"id": 6,
+		"key": "mariposa",
+		"name": "mariposa",
+		"foto": "https://cdn.pixabay.com/photo/2020/04/23/20/21/butterfly-5083926_960_720.jpg",
+		"descripcion": "Las mariposas son coloridos insectos que suelen visitar flores en busca de néctar."
+	},
+	{
+		"id": 7,
+		"key": "mantis",
+		"name": "mantis",
+		"foto": "https://images.pexels.com/photos/5327850/pexels-photo-5327850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"descripcion": "Las mantis religiosas son depredadores que cazan otros insectos."
+	},
+	{
+		"id": 8,
+		"key": "chinita",
+		"name": "chinita",
+		"foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTglOYCQMfcDbuq-SndQ3lCUixIeda4OMOEwQ&usqp=CAU",
+		"descripcion": "Las chinitas, también conocidas como mariquitas, son insectos benéficos que se alimentan de plagas."
+	}
+]
